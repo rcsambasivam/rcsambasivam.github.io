@@ -11,6 +11,7 @@ p {
 }
 .navbar {
   margin:auto; 
+  padding: 6em 0;
   width:750px;
   overflow: hidden;
   color: #333;
