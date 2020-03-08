@@ -4,7 +4,7 @@ body {
 }
 h1 {
   font-weight: bold;
-  font-family: verdana;
+  font-family: "Georgia", serif;
   text-align: center;
 }
 p {
@@ -15,4 +15,5 @@ p {
   position: fixed; /* Set the navbar to fixed position */
   /*top: 0; /* Position the navbar at the top of the page */
   /* width: 100%; /* Full width */ 
+  text-align: center;
 }
