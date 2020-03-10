@@ -11,12 +11,12 @@ p {
 }
 .navbar {
   margin: auto; 
-  padding: 6em 0;
+  /* padding: 6em 0; */
   width:100%;
   overflow: hidden;
   color: #333;
   /* background-color: #333; */
-  position: fixed; /* Set the navbar to fixed position */
+  /* position: fixed;  Set the navbar to fixed position */
   top: 10px; /* Position the navbar at the top of the page */
   /* width: 100%; /* Full width */ 
   text-align: center;
@@ -27,6 +27,7 @@ ul{
    text-align: center;
 }
 ul li{
-     display: inline-block;
+  padding: 1em;   
+  display: inline-block;
      float: none;
 }
