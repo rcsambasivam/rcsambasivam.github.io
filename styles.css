@@ -23,6 +23,7 @@ p {
   top: 10px; /* Position the navbar at the top of the page */
   /* width: 100%; /* Full width */ 
   text-align: center;
+  border-bottom: solid;
 }
 .navbar a {
   color: inherit;
@@ -36,7 +37,7 @@ footer {
   width:100%;
   text-align: center;
   background-color: #191970;
-  color: #F5FFFA;
+  color: aliceblue;
 }
 ul{
    width: 100%;
