@@ -21,13 +21,17 @@ p {
   /* width: 100%; /* Full width */ 
   text-align: center;
 }
+.navbar a {
+  color: inherit;
+  text-decoration: none; 
+}
 ul{
    width: 100%;
    display: table;
    text-align: center;
 }
 ul li{
-  padding: 1em;   
+  padding: 1em 2em;   
   display: inline-block;
      float: none;
 }
