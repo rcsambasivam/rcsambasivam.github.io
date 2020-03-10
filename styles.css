@@ -28,6 +28,12 @@ p {
 .main-content {
  padding: 2em; 
 }
+.footer-content {
+  width:100%;
+  text-align: center;
+  background-color: #191970;
+  font-color: #F5FFFA;
+}
 ul{
    width: 100%;
    display: table;
