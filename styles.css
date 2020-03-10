@@ -12,7 +12,7 @@ p {
 .navbar {
   margin:auto; 
   padding: 6em 0;
-  /* width:750px; */
+  width:100%;
   overflow: hidden;
   color: #333;
   /* background-color: #333; */
