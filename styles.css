@@ -40,7 +40,7 @@ footer {
   background-color: #191970;
   color: aliceblue;
 }
-ul{
+.navbar ul{
    width: 100%;
    display: table;
    text-align: center;
