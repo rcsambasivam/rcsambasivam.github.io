@@ -21,7 +21,6 @@ p {
   /* background-color: #333; */
   /* position: fixed;  Set the navbar to fixed position */
   top: 10px; /* Position the navbar at the top of the page */
-  /* width: 100%; /* Full width */ 
   text-align: center;
   border-bottom: solid;
 }
@@ -30,7 +29,19 @@ p {
   text-decoration: none; 
   font-size: 1.2em;
 }
+.navbar ul{
+   width: 100%;
+   display: table;
+   text-align: center;
+  padding: 0;
+}
+.navbar ul li{
+  padding: 1em 2em;   
+  display: inline-block;
+     float: none;
+}
 .main-content {
+  margin: 3em;
  padding: 2em; 
 }
 footer {
@@ -40,14 +51,4 @@ footer {
   background-color: #191970;
   color: aliceblue;
 }
-.navbar ul{
-   width: 100%;
-   display: table;
-   text-align: center;
-  padding: 0;
-}
-ul li{
-  padding: 1em 2em;   
-  display: inline-block;
-     float: none;
-}
+
