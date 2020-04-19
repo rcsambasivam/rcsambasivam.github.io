@@ -47,6 +47,9 @@ p {
   margin-right: auto;
   margin-top: 2em;
 }
+.social li {
+  display: inline-block; 
+}
 footer {
   bottom: 0;
   width:100%;
