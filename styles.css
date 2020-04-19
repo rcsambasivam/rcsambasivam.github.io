@@ -47,8 +47,11 @@ p {
   margin-right: auto;
   margin-top: 2em;
 }
-.social li {
+.social ul {
   display: inline-block; 
+  list-style: none;
+  padding-left: 0;
+  text-align: center;
 }
 footer {
   bottom: 0;
