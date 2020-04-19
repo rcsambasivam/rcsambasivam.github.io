@@ -23,6 +23,7 @@ p {
   top: 10px; /* Position the navbar at the top of the page */
   text-align: center;
   border-bottom: solid;
+  font-family: "Times New Roman", Times, serif, 
 }
 .navbar a {
   color: inherit;
