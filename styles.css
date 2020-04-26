@@ -13,7 +13,7 @@ h1 {
 }
 p {
 }
-a:active, a:visited {
+a, a:active, a:visited {
   color: #66CCFF	;
   text-decoration: none;
 }
