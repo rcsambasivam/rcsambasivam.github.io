@@ -13,6 +13,11 @@ h1 {
 }
 p {
 }
+a:active, a:visited {
+  color: #33FFFF;
+  text-decoration: none;
+}
+
 .navbar {
   margin: 0; 
   /* padding: 6em 0; */
