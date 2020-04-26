@@ -49,16 +49,14 @@ p {
 }
 
 .social {
-  text-align: center;
-}
-.social ul {
   list-style: none;
   padding-left: 0;
+  text-align: center;
 }
-.social ul li {
+.social li {
   display: inline-block; 
 }
-.social ul li img {
+.social li img {
   width:70px;
   height:70px;
   margin-right: 20px;
