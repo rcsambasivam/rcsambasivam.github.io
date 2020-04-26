@@ -23,7 +23,6 @@ p {
   /* position: fixed;  Set the navbar to fixed position */
   top: 10px; /* Position the navbar at the top of the page */
   text-align: center;
-  border-bottom: solid;
   font-family: "Times New Roman", Times, serif; 
 }
 .navbar a {
@@ -32,10 +31,11 @@ p {
   font-size: 1.2rem;
 }
 .navbar ul{
-   width: 100%;
+  margin:auto;
    display: table;
    text-align: center;
   padding: 0;
+  border-bottom:solid;
 }
 .navbar ul li{
   padding: 1em 2em;   
