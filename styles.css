@@ -45,7 +45,7 @@ a, a:active, a:visited {
   border-bottom:solid;
 }
 .navbar ul li{
-  padding: 1rem 3%;   
+  padding: 1rem 1.3em;   
   display: inline-block;
   float: none;
 }
